@@ -1,0 +1,23 @@
+
+.about {
+    background-color: antiquewhite;
+    padding: 60px 0;
+}
+
+.about-title {
+    color: cadetblue;
+    font-size: 32px;
+}
+@media only screen and (min-width: 768px) {
+  .about-title {
+    color: red;
+    font-size: 48px;
+}
+}
+@media only screen and (min-width: 1280px) {
+  .about-title {
+    color: black;
+    font-size: 52px;
+}
+}
+
